@@ -1,6 +1,7 @@
 <h1 align="center" id="title">B10A1 Challenge Begins</h1>
  <ul>
   <li>Developed with pure HTML AND CSS.</li>
+  <li>Non responsive</li>
 </ul> 
 <h2>🚀 Demo</h2>
 <hr>
